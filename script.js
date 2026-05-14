@@ -26,47 +26,53 @@ const slides = [
     src: "imagenes/1.jpeg",
     alt: "Configuración del objetivo financiero",
     caption:
-      "Configurá tus datos y objetivos para que el juego se adapte a tu realidad.",
+      "",
   },
   {
     src: "imagenes/2.jpeg",
     alt: "Mapa de la ciudad con diferentes opciones",
     caption:
-      "Recorré la ciudad y elegí qué hacer con tu dinero en diferentes lugares.",
+      "",
   },
   {
     src: "imagenes/3.jpeg",
     alt: "Pantalla de selección de secciones",
     caption:
-      "Accedé a diferentes secciones del juego con misiones y decisiones financieras.",
+      "",
   },
   {
     src: "imagenes/4.jpeg",
     alt: "Mapa ampliado de la ciudad de Cashtopia",
     caption:
-      "Explorá más edificios y oportunidades dentro de la ciudad de Cashtopia.",
+      "",
   },
   {
     src: "imagenes/5.jpeg",
     alt: "Escena con decisiones financieras puntuales",
     caption:
-      "Tomá decisiones financieras puntuales en diferentes escenarios.",
+      "",
   },
   {
     src: "imagenes/6.jpeg",
     alt: "Pantalla de gastos mensuales",
-    caption: "Revisá tus gastos mensuales de forma clara y ordenada.",
+    caption: "",
   },
   {
     src: "imagenes/7.jpeg",
     alt: "Pantalla de gastos variables",
-    caption: "Gestioná diferentes categorías de gastos y consumos.",
+    caption: "",
   },
   {
     src: "imagenes/8.jpeg",
     alt: "Resultados de la simulación financiera",
     caption:
-      "Mirá los resultados de tus decisiones financieras al final de la simulación.",
+      "",
+  },
+  {
+    src: "imagenes/9.jpeg",
+    alt: "Resultados de la simulación financiera",
+    caption:
+      "",
   },
 ];
 
